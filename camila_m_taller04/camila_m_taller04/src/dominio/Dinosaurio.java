@@ -8,9 +8,9 @@ public class Dinosaurio {
 		public int getId() {
 			return id;
 		}
-		public void setId(int id) {
+		public void setId(int iewewwd) {das
 			
-			
+			a
 			this.id = id;
 			this.id = id;
 		}
